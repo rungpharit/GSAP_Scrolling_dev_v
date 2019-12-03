@@ -1,0 +1,16 @@
+{
+  "name": "GSAP_ScrollMagic_from_Dev_V",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://rungpharit.github.io/GSAP_scrolling_dev_v",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
